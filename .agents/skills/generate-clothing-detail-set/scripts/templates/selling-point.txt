@@ -1,0 +1,23 @@
+Create a conversion-focused clothing selling-point detail slice.
+
+Reference image roles:
+{{REFERENCE_ROLES}}
+
+Fixed, approved product facts:
+{{FIXED_FACTS}}
+
+Creative variables:
+{{CREATIVE_VARIABLES}}
+
+Slot goal: {{SLOT_GOAL}}
+Communicate one verified construction or styling point with a clean visual
+hierarchy and render the readable Chinese information in this same image. Use no superlatives,
+certifications, measurements, material claims, or outcome claims unless they
+appear in the approved facts.  Keep the garment and its visible parts true to
+the reference.
+
+Text-layer contract (follow literally):
+{{APPROVED_CHINESE_COPY}}
+
+Hard constraints:
+{{NEGATIVE_CONSTRAINTS}}

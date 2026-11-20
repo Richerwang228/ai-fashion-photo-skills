@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Catalog"
+  short_description: "Run the complete garment-faithful AI model-photo workflow"
+  default_prompt: "Use $model-catalog to turn this garment folder into an approved master and a quality-controlled model-photo catalog."

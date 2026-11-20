@@ -1,0 +1,14 @@
+AI Fashion Photo Skills
+Copyright 2026 Richer Wang
+
+This repository includes six skills authored by ShopOS and published under the
+Apache License 2.0. They are redistributed without modification:
+
+  .agents/skills/product-analysis-styling
+  .agents/skills/product-tryon-visualization
+  .agents/skills/fashion-model-photography
+  .agents/skills/garment-lifestyle-photography
+  .agents/skills/macro-product-photography
+  .agents/skills/product-background-generation
+
+Their original authorship and source metadata are kept in each SKILL.md front matter.

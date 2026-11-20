@@ -1,0 +1,22 @@
+Create one mobile detail-page slice that answers the buyer question below.
+
+Reference image roles:
+{{REFERENCE_ROLES}}
+
+Fixed, approved product facts:
+{{FIXED_FACTS}}
+
+Creative variables:
+{{CREATIVE_VARIABLES}}
+
+Slot goal: {{SLOT_GOAL}}
+Use a single clear composition, an honest scale, and enough contrast for mobile
+viewing.  If this is the size module, use only the supplied numeric chart;
+otherwise use fit, ease, measuring-position, or styling guidance and never
+invent numeric sizes.  Keep the product identity unchanged.
+
+Text-layer contract (follow literally):
+{{APPROVED_CHINESE_COPY}}
+
+Hard constraints:
+{{NEGATIVE_CONSTRAINTS}}

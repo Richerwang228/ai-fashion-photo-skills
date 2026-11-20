@@ -1,0 +1,4 @@
+interface:
+  display_name: "终极服装商品详情长页"
+  short_description: "让 AI 一次生成含中文排版的服装详情模块并拼成长页"
+  default_prompt: "请使用 $generate-clothing-detail-set，根据真实服装参考图规划淘宝式商品详情长页；每个模块由 GPT Image 2 一次生成商品画面、中文、标注和说明，本地只负责拼接成长页。"

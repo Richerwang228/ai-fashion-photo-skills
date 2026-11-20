@@ -1,0 +1,23 @@
+Create a plausible lifestyle clothing image while preserving the sellable SKU.
+
+Reference image roles:
+{{REFERENCE_ROLES}}
+
+Fixed, approved product facts:
+{{FIXED_FACTS}}
+
+Creative variables:
+{{CREATIVE_VARIABLES}}
+
+Slot goal: {{SLOT_GOAL}}
+Use an everyday, believable setting and restrained styling.  Keep the garment
+large enough to inspect, preserve scale and drape, and keep props separate from
+the items included in the SKU.  The scene may express mood, but it must not
+imply an unsupported performance, safety, sustainability, endorsement, or fit
+promise.
+
+Text-layer contract (follow literally):
+{{APPROVED_CHINESE_COPY}}
+
+Hard constraints:
+{{NEGATIVE_CONSTRAINTS}}

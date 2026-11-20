@@ -1,0 +1,22 @@
+Create a neutral approved-model worn master for the clothing SKU.
+
+Reference image roles:
+{{REFERENCE_ROLES}}
+
+Fixed, approved product facts:
+{{FIXED_FACTS}}
+
+Creative variables:
+{{CREATIVE_VARIABLES}}
+
+Slot goal: {{SLOT_GOAL}}
+Show the full outfit with a relaxed, neutral pose and unobstructed silhouette.
+The model reference supplies identity only; the garment reference supplies the
+garment. Keep fit, length, layer order, color, surface, and construction honest.
+Use a simple background and lighting so this master can anchor later edits.
+
+Text-layer contract (render in this same image; follow literally):
+{{APPROVED_CHINESE_COPY}}
+
+Hard constraints:
+{{NEGATIVE_CONSTRAINTS}}

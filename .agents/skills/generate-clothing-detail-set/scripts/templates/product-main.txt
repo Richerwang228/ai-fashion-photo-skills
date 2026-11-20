@@ -1,0 +1,23 @@
+Create a product-only ecommerce hero for the clothing SKU.
+
+Reference image roles:
+{{REFERENCE_ROLES}}
+
+Fixed, approved product facts (the visual source of truth):
+{{FIXED_FACTS}}
+
+Creative variables:
+{{CREATIVE_VARIABLES}}
+
+Slot goal: {{SLOT_GOAL}}
+Use a clean, neutral studio background, natural geometry, generous safe crop,
+and a clear view of the complete sellable garment. Integrate the approved
+Chinese copy into a restrained ecommerce hierarchy in the same generation.
+If a label or logo is not legible in the reference, leave it unrendered rather
+than inventing it.
+
+Text-layer contract (render in this same image; follow literally):
+{{APPROVED_CHINESE_COPY}}
+
+Hard constraints:
+{{NEGATIVE_CONSTRAINTS}}

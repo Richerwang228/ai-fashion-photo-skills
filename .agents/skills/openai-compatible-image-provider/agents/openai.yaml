@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenAI-Compatible Image Provider"
+  short_description: "Generate and edit images through a configurable API"
+  default_prompt: "Use $openai-compatible-image-provider to generate or edit an image and save it locally."

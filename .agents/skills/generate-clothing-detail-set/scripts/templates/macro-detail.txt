@@ -1,0 +1,22 @@
+Create a truthful macro product-detail image of the clothing SKU.
+
+Reference image roles:
+{{REFERENCE_ROLES}}
+
+Fixed, approved product facts:
+{{FIXED_FACTS}}
+
+Creative variables:
+{{CREATIVE_VARIABLES}}
+
+Slot goal: {{SLOT_GOAL}}
+Use close, even lighting and a sharp crop on the referenced fabric, stitch,
+seam, pocket, zipper, button, hardware, cuff, hem, or other visible detail.
+Show only a detail supported by the reference.  Preserve texture and color;
+do not make a generic fabric look like a confirmed composition.
+
+Text-layer contract (follow literally):
+{{APPROVED_CHINESE_COPY}}
+
+Hard constraints:
+{{NEGATIVE_CONSTRAINTS}}
